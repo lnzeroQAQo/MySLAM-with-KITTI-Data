@@ -1,6 +1,8 @@
 # MySLAM-with-KITTI-Data
 基于视觉的myslam系统，使用了KITTI数据集中odometry数据中的一个视频片段。
 
+这一份是项目所用到的，感兴趣可自行下载https://pan.baidu.com/s/1JQAFiFnGuKuQxvLoHDAP0w?pwd=p167 
+
 结果如下
 
 https://github.com/user-attachments/assets/07905afe-73b4-4368-ad63-4b3c209542ed
